@@ -1,1 +1,1 @@
-print numbers
+6-print_numberz.c
