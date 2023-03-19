@@ -1,1 +1,1 @@
-print combination
+print combinations
