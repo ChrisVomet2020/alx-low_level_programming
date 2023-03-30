@@ -1,5 +1,3 @@
-102-magic.c
-
 #include <stdio.h>
 
 int main(void)
